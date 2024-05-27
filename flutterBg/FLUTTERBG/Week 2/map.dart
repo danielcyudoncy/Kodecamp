@@ -14,5 +14,6 @@ Map employees = {
 
 void main(List<String> args) {
   nameAge['jt'] = 'Janet';
-  print(nameAge['De']);
+  nameAge['David'] = 73;
+  print(nameAge['jt']);
 }
