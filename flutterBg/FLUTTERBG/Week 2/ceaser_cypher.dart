@@ -1,7 +1,7 @@
 import 'dart:io';
 
 Map<String, String> getROT13Map() {
-  const List<String> ALPHABET = const [
+  const List<String> ALPHABET = [
     "a",
     "b",
     "c",
